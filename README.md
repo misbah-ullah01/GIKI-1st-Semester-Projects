@@ -1,6 +1,5 @@
 # GIKI-1st-Semester-Projects
 
-Here's a README for GitHub related to the provided C++ code for a console-based Splitwise app clone:
 
 **Splitwise App Clone (Console-Based)**
 
